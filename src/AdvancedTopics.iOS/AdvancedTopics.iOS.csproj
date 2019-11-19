@@ -68,6 +68,7 @@
     <Compile Include="Dependency\AudioManager.cs" />
     <Compile Include="Effects\ShadowEffect.cs" />
     <Compile Include="Renderers\ExtendedEntryRenderer.cs" />
+    <Compile Include="Effects\ShadowEffectPlatform.cs" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
